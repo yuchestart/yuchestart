@@ -1,5 +1,4 @@
-### Hi there 👋
-
+#HEY!
 <!--
 **What-ever-this-is/what-ever-this-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am just a random person who has a hobby of coding and is planning to make a game with my friends who don't yet know how to code.
