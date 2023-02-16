@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌎 I live on earth.
-🕑 I basically have no time to code :(
-🏷️ I don't know why I chose my name
-🐈 I like cats
-🔭 I am currently working on CATS, Splatshooter(while collaborating with others), and I plan to make a physics engine kind of thing.
+🌎 I live on earth.<br>
+🕑 I basically have no time to code :(<br>
+🏷️ I don't know why I chose my name<br>
+🐈 I like cats<br>
+🔭 I am currently working on CATS, Splatshooter(while collaborating with others), and I plan to make a physics engine kind of thing.<br>
