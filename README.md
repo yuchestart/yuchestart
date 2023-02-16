@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌎 I live on earth.<br>
+🌎 I live on Earth, on a landmass called North America, in an artificially defined region called the United States.<br>
 🕑 I basically have no time to code :(<br>
 🏷️ I don't know why I chose my name<br>
 🐈 I like cats<br>
