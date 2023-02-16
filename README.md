@@ -1,5 +1,5 @@
 # HEY!
-<!--
+<!-- 
 **What-ever-this-is/what-ever-this-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 🏷️ I don't know why I chose my name<br>
 🐈 I like cats<br>
 🔭 I am currently working on CATS, Splatshooter(while collaborating with others), and I plan to make a physics engine kind of thing.<br>
+🎈 I also do coding as a hobby.
+🤖 YES! I try to work on a Raspberry Pi and do VEX robotics.
