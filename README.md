@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I am currently working on [CATS](https://github.com/What-ever-this-is/CATS), [Splatshooter(while collaborating with others)](https://github.com/What-ever-this-is/Splatshooter), and I plan to make a physics engine kind of thing.
 - 🎈 I also do coding as a hobby. I may code some random projects that may or may not take off.
 - 🤖 YES! I try to work on a Raspberry Pi and do VEX robotics.
-- 🌱 I am pretty good at JavaScript and Python. I for some reason is kind of skilled at VBS and may make harmless pranks with it. We'll se :trollface:
+- 🌱 I am pretty good at JavaScript and Python. I for some reason is kind of skilled at VBS and may make harmless pranks with it. We'll see :trollface:
 <img src="./rickrolll.gif">
