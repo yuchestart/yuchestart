@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 🎈 I also do coding as a hobby. I may code some random projects that may or may not take off.
 - 🤖 YES! I try to work on a Raspberry Pi and do VEX robotics.
 - 🌱 I am pretty good at JavaScript and Python. I for some reason is kind of skilled at VBS and may make harmless pranks with it. We'll see :trollface:
+- 📫 How to reach me: [MySpace](https://boulderbugle.com/3fiunv26)
 <img src="./rickrolll.gif">
