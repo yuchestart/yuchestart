@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌎 I live on Earth, on a landmass called North America, in an artificially defined region called the United States.
-- 🕑 I basically have no time to code :(
+- 🕑 I basically have all the time to code
 - 🏷️ I don't know why I chose my username
 - 🐈 I like cats
 - 🔭 I am currently working on [CATS](https://github.com/What-ever-this-is/CATS), [Splatshooter(while collaborating with others)](https://github.com/What-ever-this-is/Splatshooter), and I plan to make a physics engine kind of thing.
