@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌎 I live on Earth, on a landmass called North America, in an artificially defined region called the United States.
-- 🕑 I basically have all the time to code
+- 🕑 I basically have none of the time to code because I'm practicing for USACO
 - 🏷️ I don't know why I chose my username
 - 🐈 I like cats
-- 🔭 I am currently working on [CATS](https://github.com/What-ever-this-is/CATS), [Splatshooter(while collaborating with others)](https://github.com/What-ever-this-is/Splatshooter), and I plan to make a physics engine kind of thing.
+- 🔭 I am currently working on [CATS](https://github.com/What-ever-this-is/CATS), [Splatshooter(while collaborating with others)](https://github.com/What-ever-this-is/Splatshooter).
 - 🎈 I also do coding as a hobby. I may code some random projects that may or may not take off.
 - 🤖 YES! I try to work on a Raspberry Pi and do VEX robotics.
 - 🌱 I am pretty good at JavaScript and Python. I for some reason is kind of skilled at VBS and may make harmless pranks with it. We'll see :trollface:
