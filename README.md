@@ -13,13 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌎 I live on Earth, on a landmass called North America, in an artificially defined region called the United States.
-- 🕑 I basically have none of the time to code because I'm practicing for USACO
-- 🏷️ I don't know why I chose my username
+- 🌎 I live on Earth(shocking)
 - 🐈 I like cats
-- 🔭 I am currently working on [CATS](https://github.com/What-ever-this-is/CATS), [Splatshooter(while collaborating with others)](https://github.com/What-ever-this-is/Splatshooter).
+- 🔭 I am currently working on [CATS](https://github.com/What-ever-this-is/CATS), [Splatshooter(while collaborating with others)](https://github.com/What-ever-this-is/Splatshooter-Server).
 - 🎈 I also do coding as a hobby. I may code some random projects that may or may not take off.
-- 🤖 YES! I try to work on a Raspberry Pi and do VEX robotics.
-- 🌱 I am pretty good at JavaScript and Python. I for some reason is kind of skilled at VBS and may make harmless pranks with it. We'll see :trollface:
+- 🌱 I am pretty good at JavaScript and Python. I for some reason am kind of skilled at VBS and may make harmless pranks with it. We'll see :trollface:
 - 📫 How to reach me: [MySpace](https://yuchestart.github.io/Contact-Me/) :trollface:
 <img src="./rickrolll.gif">
