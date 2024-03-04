@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I am pretty good at JavaScript and Python. I for some reason am kind of skilled at VBS and may make harmless pranks with it. We'll see :trollface:
 - 📫 How to reach me: [MySpace](https://yuchestart.github.io/Contact-Me/) :trollface:
 <img src="./rickrolll.gif">
+
+Note:<br>
+I haven't edited this in like so long so info may not be accurate
