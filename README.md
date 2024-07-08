@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 - 🌎 I live on Earth(shocking)
 - 🐈 I like cats
-- 🔭 I am currently working on [CATS](https://github.com/What-ever-this-is/CATS), [Splatshooter(while collaborating with others)](https://github.com/What-ever-this-is/Splatshooter-Server).
-- 🎈 I also do coding as a hobby. I may code some random projects that may or may not take off.
+- 🔭 I am currently working on nothing (shocking x2)
+- 🎈 I do coding as a hobby. I may code some random projects that may or may not take off.
 - 🌱 I am pretty good at JavaScript and Python. I for some reason am kind of skilled at VBS and may make harmless pranks with it. We'll see :trollface:
 - 📫 How to reach me: [Myspace](https://yuchestart.github.io/Contact-Me/) :trollface:
 <img src="./rickrolll.gif">
