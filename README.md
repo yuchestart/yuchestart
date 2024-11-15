@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌎 I live on Earth(shocking)
+- 🌌 I live in the universe(shocking)
 - 🐈 I like cats
-- 🔭 I am currently working on nothing (shocking x2)
+- 🔭 I am currently working on nothing that I want you to know about (shocking x2)
 - 🎈 I do coding as a hobby. I may code some random projects that may or may not take off.
 - 📫 How to reach me: [Myspace](https://yuchestart.github.io/Contact-Me/) :trollface:
 <img src="./rickrolll.gif">
